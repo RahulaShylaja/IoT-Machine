@@ -1,3 +1,5 @@
+NODERED FLOW https://node-red-uxwyn-2020-10-10.eu-gb.mybluemix.net/red/#flow/19534d59.4a9cf3
+
 NODERED Dashboard url
 https://node-red-uxwyn-2020-10-10.eu-gb.mybluemix.net/ui
 
